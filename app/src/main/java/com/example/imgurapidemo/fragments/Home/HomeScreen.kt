@@ -46,7 +46,7 @@ fun HomeScreen(
         SearchView(state = textState)
         if(isGrid.value==true) {
             LazyVerticalGrid(
-                cells = GridCells.Adaptive(minSize = 100.dp),
+                cells = GridCells.Fixed(2),
                 modifier = modifier,
                 verticalArrangement = Arrangement.spacedBy(8.dp),
                 horizontalArrangement = Arrangement.spacedBy(8.dp)

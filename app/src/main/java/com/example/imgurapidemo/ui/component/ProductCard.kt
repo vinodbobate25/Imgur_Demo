@@ -62,14 +62,14 @@ fun ProductCard(
                 text = name,
                 maxLines = 3,
                 overflow = TextOverflow.Ellipsis,
-                fontSize = 6.sp,
+                fontSize = 14.sp,
                 fontWeight = FontWeight.Bold,
             )
             Text(
                 text = releaseDate,
                 maxLines = 1,
                 overflow = TextOverflow.Ellipsis,
-                fontSize = 8.sp,
+                fontSize = 16.sp,
                 fontWeight = FontWeight.Medium,
             )
         }
