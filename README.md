@@ -19,9 +19,9 @@ This app demonstrate the use of Imgur API using Jetpack Compose
 - [x] Compose State
 
 ## Implementations
-I have used Jetpack compose in this application .this application follows MVVM architecture along with coroutine and http dagger dependency injection library
-I explored use of compose states to understand how it can be used to recompose the ui on diffrent state changes
-I used Coil library to show images in imageview
+I have used Jetpack compose in this application .this application follows MVVM architecture along with coroutine and http dagger dependency injection library.
+I explored use of compose states to understand how it can be used to recompose the ui on diffrent state changes.
+I used Coil library to show images in imageview.
 
 
 
