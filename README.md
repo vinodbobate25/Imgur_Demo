@@ -10,7 +10,10 @@ https://github.com/vinodbobate25/Imgur_Demo/assets/10657949/aea0e379-dbec-482b-8
 A demo project--
 
 
-This app demonstrate the use of Imgur API using Jetpack Compose  
+-This app demonstrate the use of Imgur API using Jetpack Compose  .I have used latest Design Feature-Jetpack compose to learn and explore new app design methods.
+-Using Jetpack we can create data driven design .and it possible to create more dynamic UI component which can be reused in the multiple screens of the Application.
+-overall It was good Learning Experience for me as well.
+
 ## Features
 
 - [x] kotlin AndroidX
@@ -25,10 +28,9 @@ This app demonstrate the use of Imgur API using Jetpack Compose
 - [x] Compose State
 
 ## Implementations
-I have used Jetpack compose in this application .this application follows MVVM architecture along with coroutine and http dagger dependency injection library.
+I have used Jetpack compose in this application .This application follows MVVM architecture along with coroutine and http dagger dependency injection library.
 I explored use of compose states to understand how it can be used to recompose the ui on diffrent state changes.
 I used Coil library to show images in imageview.
-
 
 
 ## Description
@@ -38,6 +40,9 @@ I used Coil library to show images in imageview.
 - User can search in list/Grid by using searchbar
 - On clicking at Listitem,detail screen will appear
 
+## Future Enhancement
+- Imgur API also returns HLS stream link
+- We can Integrate Exo player which support HLS live stream and show videos in the app
 
 ## License
 ```
