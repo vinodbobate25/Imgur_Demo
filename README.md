@@ -1,6 +1,8 @@
 # Imgur_Demo
 Project Demostrate use of Imgur API along using Jetpack Compose
-<img src="exoplayer_app.png" alt="player git"  />
+<img src="Screenshot_20230612_210030.png" alt="player git1"  />
+<img src="Screenshot_20230612_210255.png" alt="player git1"  />
+
 A demo project--
 
 
