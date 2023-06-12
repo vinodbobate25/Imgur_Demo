@@ -10,9 +10,9 @@ https://github.com/vinodbobate25/Imgur_Demo/assets/10657949/aea0e379-dbec-482b-8
 A demo project--
 
 
--This app demonstrate the use of Imgur API using Jetpack Compose  .I have used latest Design Feature-Jetpack compose to learn and explore new app design methods.
--Using Jetpack we can create data driven design .and it possible to create more dynamic UI component which can be reused in the multiple screens of the Application.
--overall It was good Learning Experience for me as well.
+- [x] This app demonstrate the use of Imgur API using Jetpack Compose  .I have used latest Design Feature-Jetpack compose to learn and explore new app design methods.
+- [x] Using Jetpack we can create data driven design .and it possible to create more dynamic UI component which can be reused in the multiple screens of the Application.
+- [x] overall It was good Learning Experience for me as well.
 
 ## Features
 
